@@ -1,0 +1,80 @@
+10
+
+dir
+2
+svn://zhangyuqing@localhost/xmpp/code/xmppDemo/xmppDemo/lib/xmpp/Authentication
+svn://zhangyuqing@localhost/xmpp/code
+
+
+
+2013-11-27T10:37:18.207136Z
+1
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f29313a7-25a8-4432-946b-5ce98fb7c529
+
+X-Facebook-Platform
+dir
+
+Deprecated-Plain
+dir
+
+Digest-MD5
+dir
+
+Plain
+dir
+
+Anonymous
+dir
+
+Deprecated-Digest
+dir
+
+XMPPSASLAuthentication.h
+file
+
+
+
+
+2013-11-27T10:55:28.000000Z
+17d8a6341cc3588fa55a4958d7e4449d
+2013-11-27T10:37:18.207136Z
+1
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3525
+
